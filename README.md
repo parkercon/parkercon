@@ -1,6 +1,6 @@
 ### Hello, my name is Parker. 
 
-I believe software development is my medium for the greatest magnitude of social good. Let us create! 
+I believe software development is my medium for the greatest magnitude of social good. Let us create !!
 
 [LinkedIn](https://www.linkedin.com/in/parkerconrad01/)
 
