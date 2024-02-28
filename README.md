@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello, my name is Parker. 
 
+I believe software development is my medium for the greatest magnitude of social good. Let us create! 
+
+[LinkedIn](https://www.linkedin.com/in/parkerconrad01/)
+
+[Portfolio Site](https://parkercon.github.io/hey-im-parker/)
+
+Contact: <parker@buniboards.com>
+
+Smile !!
 <!--
 **parkercon/parkercon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
