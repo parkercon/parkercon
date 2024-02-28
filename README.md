@@ -8,7 +8,7 @@ I believe software development is my medium for the greatest magnitude of social
 
 Contact: <parker@buniboards.com>
 
-Smile !!
+Smile :)!!
 <!--
 **parkercon/parkercon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
