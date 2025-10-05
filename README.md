@@ -6,7 +6,7 @@ I believe software development is my medium for the greatest magnitude of social
 
 [Portfolio Site](https://parkercon.github.io/hey-im-parker/)
 
-Contact: <parker@buniboards.com>
+Contact: <parker.r.conrad@gmail.com>
 <!--
 **parkercon/parkercon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
